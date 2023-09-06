@@ -1,0 +1,7 @@
+ul {
+    list-style: square;
+}
+
+h1, h2 {
+    text-transform: uppercase;
+}
